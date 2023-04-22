@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416164932649",
+    "project_id": "kindred-co",
+    "storage_bucket": "kindred-co.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416164932649:android:82a4db5b10bcc5db3b0038",
+        "android_client_info": {
+          "package_name": "com.example.kindred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416164932649-kjjd4hrvhr7d7fvoq67pckp0uujlg8rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_atZIv9v_QNrFOiNa3hz3dkTWqyN-MOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416164932649-kjjd4hrvhr7d7fvoq67pckp0uujlg8rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
